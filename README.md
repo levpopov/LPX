@@ -1,5 +1,7 @@
 # LPX Keycap - compact, FDM optimized ergo choc design
 
+**<a href="LPX.stl"/>Download STL<a/>**
+
 <img src="images/grid.png" width="300"/>
 
 ## Overview
